@@ -1,0 +1,2 @@
+C:/Users/abner/perredex/android/app/.cxx/Debug/5n151o4h/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/abner/perredex/android/app/.cxx/Debug/5n151o4h/armeabi-v7a/CMakeFiles/rebuild_cache.dir

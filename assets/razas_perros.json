@@ -1,0 +1,1334 @@
+[
+  {
+    "Raza": "Chihuahua",
+    "Peso": "1.5 a 3 kg",
+    "Altura": "15 a 23 cm",
+    "Talla": "Chica",
+    "Origen": "México",
+    "Esperanza de vida": "12 a 20 años",
+    "Link Imagen": "images/imagenes_perros/Chihuahua.jpg"
+  },
+  {
+    "Raza": "Bulldog Francés",
+    "Peso": "8 a 14 kg",
+    "Altura": "30 a 35 cm",
+    "Talla": "Chica",
+    "Origen": "Francia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Bulldog Francés.jpg"
+  },
+  {
+    "Raza": "Poodle Toy",
+    "Peso": "3 a 6 kg",
+    "Altura": "24 a 28 cm",
+    "Talla": "Chica",
+    "Origen": "Alemania/Francia",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Poodle Toy.jpg"
+  },
+  {
+    "Raza": "Pomerania",
+    "Peso": "1.8 a 2.5 kg",
+    "Altura": "18 a 24 cm",
+    "Talla": "Chica",
+    "Origen": "Alemania/Polonia",
+    "Esperanza de vida": "12 a 16 años",
+    "Link Imagen": "images/imagenes_perros/Pomerania.jpg"
+  },
+  {
+    "Raza": "Shih Tzu",
+    "Peso": "4 a 7.2 kg",
+    "Altura": "20 a 28 cm",
+    "Talla": "Chica",
+    "Origen": "China",
+    "Esperanza de vida": "10 a 18 años",
+    "Link Imagen": "images/imagenes_perros/Shih Tzu.jpg"
+  },
+  {
+    "Raza": "Bichón Frisé",
+    "Peso": "5 a 10 kg",
+    "Altura": "23 a 30 cm",
+    "Talla": "Chica",
+    "Origen": "España/Francia",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Bichón Frisé.jpg"
+  },
+  {
+    "Raza": "Yorkshire Terrier",
+    "Peso": "1.3 a 3.1 kg",
+    "Altura": "17 a 20 cm",
+    "Talla": "Chica",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "13 a 16 años",
+    "Link Imagen": "images/imagenes_perros/Yorkshire Terrier.jpg"
+  },
+  {
+    "Raza": "Pug",
+    "Peso": "6 a 8 kg",
+    "Altura": "25 a 33 cm",
+    "Talla": "Chica",
+    "Origen": "China",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Pug.jpg"
+  },
+  {
+    "Raza": "Boston Terrier",
+    "Peso": "4.5 a 11 kg",
+    "Altura": "38 a 43 cm",
+    "Talla": "Chica",
+    "Origen": "EE.UU.",
+    "Esperanza de vida": "11 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Boston Terrier.jpg"
+  },
+  {
+    "Raza": "Cavalier King Charles Spaniel",
+    "Peso": "5.9 a 8.2 kg",
+    "Altura": "30 a 33 cm",
+    "Talla": "Chica",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "9 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Cavalier King Charles Spaniel.jpg"
+  },
+  {
+    "Raza": "Beagle",
+    "Peso": "9 a 11 kg",
+    "Altura": "33 a 41 cm",
+    "Talla": "Mediana",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Beagle.jpg"
+  },
+  {
+    "Raza": "Cocker Spaniel",
+    "Peso": "12 a 15 kg",
+    "Altura": "36 a 41 cm",
+    "Talla": "Mediana",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Cocker Spaniel.jpg"
+  },
+  {
+    "Raza": "Border Collie",
+    "Peso": "14 a 20 kg",
+    "Altura": "46 a 56 cm",
+    "Talla": "Mediana",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Border Collie.jpg"
+  },
+  {
+    "Raza": "Shiba Inu",
+    "Peso": "8 a 10 kg",
+    "Altura": "35 a 43 cm",
+    "Talla": "Mediana",
+    "Origen": "Japón",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Shiba Inu.jpg"
+  },
+  {
+    "Raza": "Bulldog Inglés",
+    "Peso": "18 a 25 kg",
+    "Altura": "31 a 40 cm",
+    "Talla": "Mediana",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "8 a 10 años",
+    "Link Imagen": "images/imagenes_perros/Bulldog Inglés.jpg"
+  },
+  {
+    "Raza": "Basset Hound",
+    "Peso": "20 a 29 kg",
+    "Altura": "33 a 38 cm",
+    "Talla": "Mediana",
+    "Origen": "Francia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Basset Hound.jpg"
+  },
+  {
+    "Raza": "Shar Pei",
+    "Peso": "18 a 29 kg",
+    "Altura": "46 a 51 cm",
+    "Talla": "Mediana",
+    "Origen": "China",
+    "Esperanza de vida": "8 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Shar Pei.jpg"
+  },
+  {
+    "Raza": "Bull Terrier",
+    "Peso": "22 a 38 kg",
+    "Altura": "53 a 56 cm",
+    "Talla": "Mediana",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "10 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Bull Terrier.jpg"
+  },
+  {
+    "Raza": "Staffordshire Bull Terrier",
+    "Peso": "11 a 17 kg",
+    "Altura": "36 a 41 cm",
+    "Talla": "Mediana",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Staffordshire Bull Terrier.jpg"
+  },
+  {
+    "Raza": "Dálmata",
+    "Peso": "23 a 25 kg",
+    "Altura": "56 a 61 cm",
+    "Talla": "Grande",
+    "Origen": "Croacia",
+    "Esperanza de vida": "11 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Dálmata.jpg"
+  },
+  {
+    "Raza": "Labrador Retriever",
+    "Peso": "25 a 36 kg",
+    "Altura": "54 a 57 cm",
+    "Talla": "Grande",
+    "Origen": "Canadá",
+    "Esperanza de vida": "10 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Labrador Retriever.jpg"
+  },
+  {
+    "Raza": "Pastor Alemán",
+    "Peso": "22 a 40 kg",
+    "Altura": "55 a 65 cm",
+    "Talla": "Grande",
+    "Origen": "Alemania",
+    "Esperanza de vida": "9 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Pastor Alemán.jpg"
+  },
+  {
+    "Raza": "Golden Retriever",
+    "Peso": "25 a 34 kg",
+    "Altura": "51 a 61 cm",
+    "Talla": "Grande",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Golden Retriever.jpg"
+  },
+  {
+    "Raza": "San Bernardo",
+    "Peso": "64 a 120 kg",
+    "Altura": "70 a 90 cm",
+    "Talla": "Grande",
+    "Origen": "Suiza",
+    "Esperanza de vida": "8 a 10 años",
+    "Link Imagen": "images/imagenes_perros/San Bernardo.jpg"
+  },
+  {
+    "Raza": "Akita Inu",
+    "Peso": "32 a 45 kg",
+    "Altura": "61 a 71 cm",
+    "Talla": "Grande",
+    "Origen": "Japón",
+    "Esperanza de vida": "10 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Akita Inu.jpg"
+  },
+  {
+    "Raza": "Dobermann",
+    "Peso": "32 a 45 kg",
+    "Altura": "63 a 72 cm",
+    "Talla": "Grande",
+    "Origen": "Alemania",
+    "Esperanza de vida": "10 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Dobermann.jpg"
+  },
+  {
+    "Raza": "Rottweiler",
+    "Peso": "35 a 60 kg",
+    "Altura": "56 a 69 cm",
+    "Talla": "Grande",
+    "Origen": "Alemania",
+    "Esperanza de vida": "8 a 10 años",
+    "Link Imagen": "images/imagenes_perros/Rottweiler.jpg"
+  },
+  {
+    "Raza": "Boxer",
+    "Peso": "25 a 32 kg",
+    "Altura": "53 a 63 cm",
+    "Talla": "Grande",
+    "Origen": "Alemania",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Boxer.jpg"
+  },
+  {
+    "Raza": "Gran Danés",
+    "Peso": "50 a 82 kg",
+    "Altura": "71 a 86 cm",
+    "Talla": "Grande",
+    "Origen": "Alemania",
+    "Esperanza de vida": "7 a 10 años",
+    "Link Imagen": "images/imagenes_perros/Gran Danés.jpg"
+  },
+  {
+    "Raza": "Husky Siberiano",
+    "Peso": "16 a 27 kg",
+    "Altura": "51 a 60 cm",
+    "Talla": "Mediana",
+    "Origen": "Rusia",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Husky Siberiano.jpg"
+  },
+  {
+    "Raza": "Mastín Inglés",
+    "Peso": "72 a 100 kg",
+    "Altura": "70 a 91 cm",
+    "Talla": "Grande",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "6 a 10 años",
+    "Link Imagen": "images/imagenes_perros/Mastín Inglés.jpg"
+  },
+  {
+    "Raza": "Terranova",
+    "Peso": "50 a 68 kg",
+    "Altura": "66 a 71 cm",
+    "Talla": "Grande",
+    "Origen": "Canadá",
+    "Esperanza de vida": "8 a 10 años",
+    "Link Imagen": "images/imagenes_perros/Terranova.jpg"
+  },
+  {
+    "Raza": "Weimaraner",
+    "Peso": "25 a 40 kg",
+    "Altura": "59 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Alemania",
+    "Esperanza de vida": "10 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Weimaraner.jpg"
+  },
+  {
+    "Raza": "Setter Irlandés",
+    "Peso": "27 a 32 kg",
+    "Altura": "62 a 67 cm",
+    "Talla": "Grande",
+    "Origen": "Irlanda",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Setter Irlandés.jpg"
+  },
+  {
+    "Raza": "Pointer Inglés",
+    "Peso": "20 a 30 kg",
+    "Altura": "61 a 69 cm",
+    "Talla": "Grande",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Pointer Inglés.jpg"
+  },
+  {
+    "Raza": "Braco Alemán",
+    "Peso": "25 a 32 kg",
+    "Altura": "58 a 64 cm",
+    "Talla": "Grande",
+    "Origen": "Alemania",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Braco Alemán.jpg"
+  },
+  {
+    "Raza": "Bullmastiff",
+    "Peso": "45 a 59 kg",
+    "Altura": "61 a 69 cm",
+    "Talla": "Grande",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "8 a 10 años",
+    "Link Imagen": "images/imagenes_perros/Bullmastiff.jpg"
+  },
+  {
+    "Raza": "Mastín Tibetano",
+    "Peso": "64 a 82 kg",
+    "Altura": "66 a 76 cm",
+    "Talla": "Grande",
+    "Origen": "Tíbet",
+    "Esperanza de vida": "10 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Mastín Tibetano.jpg"
+  },
+  {
+    "Raza": "Leonberger",
+    "Peso": "45 a 77 kg",
+    "Altura": "65 a 80 cm",
+    "Talla": "Grande",
+    "Origen": "Alemania",
+    "Esperanza de vida": "8 a 9 años",
+    "Link Imagen": "images/imagenes_perros/Leonberger.jpg"
+  },
+  {
+    "Raza": "Perro de Agua Español",
+    "Peso": "14 a 22 kg",
+    "Altura": "40 a 50 cm",
+    "Talla": "Mediana",
+    "Origen": "España",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Agua Español.jpg"
+  },
+  {
+    "Raza": "Galgos (varias razas)",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Varios",
+    "Esperanza de vida": "10 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Galgos (varias razas).jpg"
+  },
+  {
+    "Raza": "Podenco Ibicenco",
+    "Peso": "19 a 25 kg",
+    "Altura": "56 a 74 cm",
+    "Talla": "Mediana",
+    "Origen": "España",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Podenco Ibicenco.jpg"
+  },
+  {
+    "Raza": "Pastor Australiano",
+    "Peso": "15 a 32 kg",
+    "Altura": "46 a 58 cm",
+    "Talla": "Mediana",
+    "Origen": "EE.UU.",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Pastor Australiano.jpg"
+  },
+  {
+    "Raza": "Pastor Belga Malinois",
+    "Peso": "25 a 30 kg",
+    "Altura": "56 a 66 cm",
+    "Talla": "Grande",
+    "Origen": "Bélgica",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Pastor Belga Malinois.jpg"
+  },
+  {
+    "Raza": "Pastor de Shetland",
+    "Peso": "6 a 12 kg",
+    "Altura": "33 a 41 cm",
+    "Talla": "Chica",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Pastor de Shetland.jpg"
+  },
+  {
+    "Raza": "Collie",
+    "Peso": "23 a 34 kg",
+    "Altura": "56 a 66 cm",
+    "Talla": "Grande",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Collie.jpg"
+  },
+  {
+    "Raza": "Pastor Ganadero Australiano",
+    "Peso": "15 a 22 kg",
+    "Altura": "43 a 51 cm",
+    "Talla": "Mediana",
+    "Origen": "Australia",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Pastor Ganadero Australiano.jpg"
+  },
+  {
+    "Raza": "Pastor de los Pirineos",
+    "Peso": "8 a 15 kg",
+    "Altura": "40 a 53 cm",
+    "Talla": "Mediana",
+    "Origen": "Francia",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Pastor de los Pirineos.jpg"
+  },
+  {
+    "Raza": "Pastor Holandés",
+    "Peso": "23 a 32 kg",
+    "Altura": "57 a 62 cm",
+    "Talla": "Grande",
+    "Origen": "Países Bajos",
+    "Esperanza de vida": "11 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Pastor Holandés.jpg"
+  },
+  {
+    "Raza": "Pastor Blanco Suizo",
+    "Peso": "25 a 40 kg",
+    "Altura": "55 a 66 cm",
+    "Talla": "Grande",
+    "Origen": "Suiza",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Pastor Blanco Suizo.jpg"
+  },
+  {
+    "Raza": "Perro Lobo Checoslovaco",
+    "Peso": "20 a 26 kg",
+    "Altura": "60 a 65 cm",
+    "Talla": "Grande",
+    "Origen": "República Checa",
+    "Esperanza de vida": "12 a 16 años",
+    "Link Imagen": "images/imagenes_perros/Perro Lobo Checoslovaco.jpg"
+  },
+  {
+    "Raza": "Perro Crestado Chino",
+    "Peso": "2.3 a 5.4 kg",
+    "Altura": "23 a 33 cm",
+    "Talla": "Chica",
+    "Origen": "China",
+    "Esperanza de vida": "13 a 18 años",
+    "Link Imagen": "images/imagenes_perros/Perro Crestado Chino.jpg"
+  },
+  {
+    "Raza": "Basenji",
+    "Peso": "9 a 11 kg",
+    "Altura": "40 a 43 cm",
+    "Talla": "Mediana",
+    "Origen": "África Central",
+    "Esperanza de vida": "12 a 16 años",
+    "Link Imagen": "images/imagenes_perros/Basenji.jpg"
+  },
+  {
+    "Raza": "Schnauzer Miniatura",
+    "Peso": "4 a 8 kg",
+    "Altura": "30 a 36 cm",
+    "Talla": "Chica",
+    "Origen": "Alemania",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Schnauzer Miniatura.jpg"
+  },
+  {
+    "Raza": "Schnauzer Estándar",
+    "Peso": "14 a 20 kg",
+    "Altura": "44 a 50 cm",
+    "Talla": "Mediana",
+    "Origen": "Alemania",
+    "Esperanza de vida": "13 a 16 años",
+    "Link Imagen": "images/imagenes_perros/Schnauzer Estándar.jpg"
+  },
+  {
+    "Raza": "Schnauzer Gigante",
+    "Peso": "25 a 48 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Alemania",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Schnauzer Gigante.jpg"
+  },
+  {
+    "Raza": "Fox Terrier",
+    "Peso": "7 a 8.5 kg",
+    "Altura": "36 a 41 cm",
+    "Talla": "Mediana",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Fox Terrier.jpg"
+  },
+  {
+    "Raza": "West Highland White Terrier",
+    "Peso": "6.8 a 9 kg",
+    "Altura": "25 a 28 cm",
+    "Talla": "Chica",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "12 a 16 años",
+    "Link Imagen": "images/imagenes_perros/West Highland White Terrier.jpg"
+  },
+  {
+    "Raza": "Airedale Terrier",
+    "Peso": "20 a 29 kg",
+    "Altura": "56 a 61 cm",
+    "Talla": "Grande",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "10 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Airedale Terrier.jpg"
+  },
+  {
+    "Raza": "Scottish Terrier",
+    "Peso": "8.5 a 10.5 kg",
+    "Altura": "25 a 28 cm",
+    "Talla": "Chica",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "11 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Scottish Terrier.jpg"
+  },
+  {
+    "Raza": "Jack Russell Terrier",
+    "Peso": "6 a 8 kg",
+    "Altura": "25 a 30 cm",
+    "Talla": "Chica",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "13 a 16 años",
+    "Link Imagen": "images/imagenes_perros/Jack Russell Terrier.jpg"
+  },
+  {
+    "Raza": "American Staffordshire Terrier",
+    "Peso": "25 a 30 kg",
+    "Altura": "43 a 48 cm",
+    "Talla": "Mediana",
+    "Origen": "EE.UU.",
+    "Esperanza de vida": "12 a 16 años",
+    "Link Imagen": "images/imagenes_perros/American Staffordshire Terrier.jpg"
+  },
+  {
+    "Raza": "Pitbull Terrier Americano",
+    "Peso": "14 a 27 kg",
+    "Altura": "43 a 53 cm",
+    "Talla": "Mediana",
+    "Origen": "EE.UU.",
+    "Esperanza de vida": "8 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Pitbull Terrier Americano.jpg"
+  },
+  {
+    "Raza": "Caniche Enano",
+    "Peso": "4 a 6 kg",
+    "Altura": "28 a 35 cm",
+    "Talla": "Chica",
+    "Origen": "Alemania/Francia",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Caniche Enano.jpg"
+  },
+  {
+    "Raza": "Caniche Mediano",
+    "Peso": "10 a 15 kg",
+    "Altura": "35 a 45 cm",
+    "Talla": "Mediana",
+    "Origen": "Alemania/Francia",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Caniche Mediano.jpg"
+  },
+  {
+    "Raza": "Caniche Gigante",
+    "Peso": "20 a 32 kg",
+    "Altura": "45 a 60 cm",
+    "Talla": "Grande",
+    "Origen": "Alemania/Francia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Caniche Gigante.jpg"
+  },
+  {
+    "Raza": "Lhasa Apso",
+    "Peso": "5 a 8 kg",
+    "Altura": "25 a 28 cm",
+    "Talla": "Chica",
+    "Origen": "Tíbet",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Lhasa Apso.jpg"
+  },
+  {
+    "Raza": "Pequinés",
+    "Peso": "3.2 a 6.4 kg",
+    "Altura": "15 a 23 cm",
+    "Talla": "Chica",
+    "Origen": "China",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Pequinés.jpg"
+  },
+  {
+    "Raza": "Affenpinscher",
+    "Peso": "3 a 4 kg",
+    "Altura": "23 a 30 cm",
+    "Talla": "Chica",
+    "Origen": "Alemania",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Affenpinscher.jpg"
+  },
+  {
+    "Raza": "Bichón Maltés",
+    "Peso": "3 a 4 kg",
+    "Altura": "20 a 25 cm",
+    "Talla": "Chica",
+    "Origen": "Malta",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Bichón Maltés.jpg"
+  },
+  {
+    "Raza": "Papillón",
+    "Peso": "3.2 a 4.5 kg",
+    "Altura": "20 a 28 cm",
+    "Talla": "Chica",
+    "Origen": "Francia/Bélgica",
+    "Esperanza de vida": "13 a 16 años",
+    "Link Imagen": "images/imagenes_perros/Papillón.jpg"
+  },
+  {
+    "Raza": "Corgi Galés",
+    "Peso": "10 a 14 kg",
+    "Altura": "25 a 30 cm",
+    "Talla": "Chica",
+    "Origen": "Reino Unido",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Corgi Galés.jpg"
+  },
+  {
+    "Raza": "Dachshund (Teckel)",
+    "Peso": "7 a 14 kg",
+    "Altura": "20 a 27 cm",
+    "Talla": "Chica",
+    "Origen": "Alemania",
+    "Esperanza de vida": "12 a 16 años",
+    "Link Imagen": "images/imagenes_perros/Dachshund (Teckel).jpg"
+  },
+  {
+    "Raza": "Perro Esquimal Americano",
+    "Peso": "8 a 16 kg",
+    "Altura": "38 a 48 cm",
+    "Talla": "Mediana",
+    "Origen": "EE.UU.",
+    "Esperanza de vida": "13 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Perro Esquimal Americano.jpg"
+  },
+  {
+    "Raza": "Keeshond",
+    "Peso": "15 a 20 kg",
+    "Altura": "43 a 46 cm",
+    "Talla": "Mediana",
+    "Origen": "Países Bajos",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Keeshond.jpg"
+  },
+  {
+    "Raza": "Chow Chow",
+    "Peso": "20 a 32 kg",
+    "Altura": "46 a 56 cm",
+    "Talla": "Grande",
+    "Origen": "China",
+    "Esperanza de vida": "9 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Chow Chow.jpg"
+  },
+  {
+    "Raza": "Perro de Montaña de los Pirineos",
+    "Peso": "45 a 60 kg",
+    "Altura": "65 a 82 cm",
+    "Talla": "Grande",
+    "Origen": "Francia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Montaña de los Pirineos.jpg"
+  },
+  {
+    "Raza": "Perro de Groenlandia",
+    "Peso": "30 a 32 kg",
+    "Altura": "55 a 60 cm",
+    "Talla": "Grande",
+    "Origen": "Groenlandia",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Groenlandia.jpg"
+  },
+  {
+    "Raza": "Alaskan Malamute",
+    "Peso": "34 a 39 kg",
+    "Altura": "58 a 64 cm",
+    "Talla": "Grande",
+    "Origen": "EE.UU.",
+    "Esperanza de vida": "10 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Alaskan Malamute.jpg"
+  },
+  {
+    "Raza": "Samoyedo",
+    "Peso": "20 a 30 kg",
+    "Altura": "48 a 60 cm",
+    "Talla": "Grande",
+    "Origen": "Rusia",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Samoyedo.jpg"
+  },
+  {
+    "Raza": "Elkhound Noruego",
+    "Peso": "18 a 27 kg",
+    "Altura": "49 a 52 cm",
+    "Talla": "Mediana",
+    "Origen": "Noruega",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Elkhound Noruego.jpg"
+  },
+  {
+    "Raza": "Perro de Osos de Carelia",
+    "Peso": "20 a 23 kg",
+    "Altura": "52 a 57 cm",
+    "Talla": "Mediana",
+    "Origen": "Finlandia",
+    "Esperanza de vida": "11 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Osos de Carelia.jpg"
+  },
+  {
+    "Raza": "Perro Finlandés de Laponia",
+    "Peso": "15 a 24 kg",
+    "Altura": "46 a 52 cm",
+    "Talla": "Mediana",
+    "Origen": "Finlandia",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro Finlandés de Laponia.jpg"
+  },
+  {
+    "Raza": "Vizsla",
+    "Peso": "20 a 30 kg",
+    "Altura": "53 a 64 cm",
+    "Talla": "Grande",
+    "Origen": "Hungría",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Vizsla.jpg"
+  },
+  {
+    "Raza": "Rhodesian Ridgeback",
+    "Peso": "32 a 36 kg",
+    "Altura": "61 a 69 cm",
+    "Talla": "Grande",
+    "Origen": "Zimbabue",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Rhodesian Ridgeback.jpg"
+  },
+  {
+    "Raza": "Perro Crestado Rodesiano",
+    "Peso": "34 a 39 kg",
+    "Altura": "61 a 69 cm",
+    "Talla": "Grande",
+    "Origen": "Zimbabue",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Crestado Rodesiano.jpg"
+  },
+  {
+    "Raza": "Perro de Canaán",
+    "Peso": "18 a 25 kg",
+    "Altura": "50 a 60 cm",
+    "Talla": "Mediana",
+    "Origen": "Israel",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Canaán.jpg"
+  },
+  {
+    "Raza": "Perro de Agua Portugués",
+    "Peso": "16 a 25 kg",
+    "Altura": "43 a 57 cm",
+    "Talla": "Mediana",
+    "Origen": "Portugal",
+    "Esperanza de vida": "11 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Agua Portugués.jpg"
+  },
+  {
+    "Raza": "Perro de Castro Laboreiro",
+    "Peso": "25 a 40 kg",
+    "Altura": "55 a 61 cm",
+    "Talla": "Grande",
+    "Origen": "Portugal",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Castro Laboreiro.jpg"
+  },
+  {
+    "Raza": "Perro de Presa Canario",
+    "Peso": "40 a 60 kg",
+    "Altura": "56 a 65 cm",
+    "Talla": "Grande",
+    "Origen": "España",
+    "Esperanza de vida": "9 a 11 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Presa Canario.jpg"
+  },
+  {
+    "Raza": "Perro de Presa Mallorquín",
+    "Peso": "35 a 38 kg",
+    "Altura": "52 a 58 cm",
+    "Talla": "Grande",
+    "Origen": "España",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Presa Mallorquín.jpg"
+  },
+  {
+    "Raza": "Perro de Montaña Bernés",
+    "Peso": "36 a 50 kg",
+    "Altura": "58 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Suiza",
+    "Esperanza de vida": "7 a 10 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Montaña Bernés.jpg"
+  },
+  {
+    "Raza": "Perro de Montaña Appenzell",
+    "Peso": "22 a 32 kg",
+    "Altura": "50 a 56 cm",
+    "Talla": "Mediana",
+    "Origen": "Suiza",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Montaña Appenzell.jpg"
+  },
+  {
+    "Raza": "Perro de Montaña Entlebuch",
+    "Peso": "20 a 30 kg",
+    "Altura": "44 a 50 cm",
+    "Talla": "Mediana",
+    "Origen": "Suiza",
+    "Esperanza de vida": "11 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Perro de Montaña Entlebuch.jpg"
+  },
+  {
+    "Raza": "Perro Faraón",
+    "Peso": "20 a 25 kg",
+    "Altura": "53 a 63 cm",
+    "Talla": "Grande",
+    "Origen": "Malta",
+    "Esperanza de vida": "11 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro Faraón.jpg"
+  },
+  {
+    "Raza": "Perro Cirneco del Etna",
+    "Peso": "10 a 12 kg",
+    "Altura": "42 a 50 cm",
+    "Talla": "Mediana",
+    "Origen": "Italia",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro Cirneco del Etna.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Anatolia",
+    "Peso": "40 a 65 kg",
+    "Altura": "71 a 81 cm",
+    "Talla": "Grande",
+    "Origen": "Turquía",
+    "Esperanza de vida": "11 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Anatolia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor del Cáucaso",
+    "Peso": "45 a 70 kg",
+    "Altura": "64 a 72 cm",
+    "Talla": "Grande",
+    "Origen": "Rusia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor del Cáucaso.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Asia Central",
+    "Peso": "40 a 79 kg",
+    "Altura": "60 a 78 cm",
+    "Talla": "Grande",
+    "Origen": "Asia Central",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Asia Central.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Karst",
+    "Peso": "25 a 42 kg",
+    "Altura": "54 a 60 cm",
+    "Talla": "Grande",
+    "Origen": "Eslovenia",
+    "Esperanza de vida": "11 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Karst.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Maremma",
+    "Peso": "30 a 45 kg",
+    "Altura": "65 a 73 cm",
+    "Talla": "Grande",
+    "Origen": "Italia",
+    "Esperanza de vida": "11 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Maremma.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Tatra",
+    "Peso": "36 a 60 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Polonia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Tatra.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Bosnia",
+    "Peso": "25 a 40 kg",
+    "Altura": "50 a 60 cm",
+    "Talla": "Mediana",
+    "Origen": "Bosnia",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Bosnia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Croacia",
+    "Peso": "13 a 20 kg",
+    "Altura": "40 a 50 cm",
+    "Talla": "Mediana",
+    "Origen": "Croacia",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Croacia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Charplanina",
+    "Peso": "35 a 45 kg",
+    "Altura": "56 a 62 cm",
+    "Talla": "Grande",
+    "Origen": "Serbia",
+    "Esperanza de vida": "11 a 13 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Charplanina.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Kuvasz",
+    "Peso": "32 a 52 kg",
+    "Altura": "66 a 76 cm",
+    "Talla": "Grande",
+    "Origen": "Hungría",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Kuvasz.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Komondor",
+    "Peso": "40 a 60 kg",
+    "Altura": "65 a 80 cm",
+    "Talla": "Grande",
+    "Origen": "Hungría",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Komondor.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Puli",
+    "Peso": "10 a 15 kg",
+    "Altura": "36 a 44 cm",
+    "Talla": "Mediana",
+    "Origen": "Hungría",
+    "Esperanza de vida": "12 a 16 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Puli.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Pumi",
+    "Peso": "8 a 15 kg",
+    "Altura": "38 a 47 cm",
+    "Talla": "Mediana",
+    "Origen": "Hungría",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Pumi.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Mudi",
+    "Peso": "8 a 13 kg",
+    "Altura": "38 a 47 cm",
+    "Talla": "Mediana",
+    "Origen": "Hungría",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Mudi.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Vallhund Sueco",
+    "Peso": "9 a 14 kg",
+    "Altura": "31 a 35 cm",
+    "Talla": "Chica",
+    "Origen": "Suecia",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Vallhund Sueco.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Laponia",
+    "Peso": "15 a 24 kg",
+    "Altura": "43 a 51 cm",
+    "Talla": "Mediana",
+    "Origen": "Finlandia",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Laponia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Islandia",
+    "Peso": "10 a 14 kg",
+    "Altura": "42 a 46 cm",
+    "Talla": "Mediana",
+    "Origen": "Islandia",
+    "Esperanza de vida": "12 a 15 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Islandia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Noruega",
+    "Peso": "18 a 27 kg",
+    "Altura": "45 a 52 cm",
+    "Talla": "Mediana",
+    "Origen": "Noruega",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Noruega.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Suecia",
+    "Peso": "20 a 30 kg",
+    "Altura": "50 a 60 cm",
+    "Talla": "Mediana",
+    "Origen": "Suecia",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Suecia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Finlandia",
+    "Peso": "20 a 30 kg",
+    "Altura": "50 a 60 cm",
+    "Talla": "Mediana",
+    "Origen": "Finlandia",
+    "Esperanza de vida": "12 a 14 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Finlandia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Rusia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Rusia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Rusia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Polonia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Polonia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Polonia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Rumania",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Rumania",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Rumania.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Bulgaria",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Bulgaria",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Bulgaria.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Grecia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Grecia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Grecia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Albania",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Albania",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Albania.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Macedonia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Macedonia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Macedonia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Montenegro",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Montenegro",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Montenegro.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Serbia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Serbia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Serbia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Eslovenia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Eslovenia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Eslovenia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Eslovaquia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Eslovaquia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Eslovaquia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Hungría",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Hungría",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Hungría.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Austria",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Austria",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Austria.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Suiza",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Suiza",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Suiza.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Alemania",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Alemania",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Alemania.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Francia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Francia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Francia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Italia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Italia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Italia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de España",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "España",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de España.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Portugal",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Portugal",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Portugal.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Bélgica",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Bélgica",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Bélgica.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Holanda",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Países Bajos",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Holanda.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Luxemburgo",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Luxemburgo",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Luxemburgo.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Dinamarca",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Dinamarca",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Dinamarca.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Noruega",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Noruega",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Noruega.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Suecia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Suecia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Suecia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Finlandia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Finlandia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Finlandia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Islandia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Islandia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Islandia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Groenlandia",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Groenlandia",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Groenlandia.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Canadá",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "Canadá",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Canadá.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de EE.UU.",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "EE.UU.",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de EE.UU..jpg"
+  },
+  {
+    "Raza": "Perro Pastor de México",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": "México",
+    "Esperanza de vida": "10 a 12 años",
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de México.jpg"
+  },
+  {
+    "Raza": "Perro Pastor de Argentina",
+    "Peso": "25 a 40 kg",
+    "Altura": "60 a 70 cm",
+    "Talla": "Grande",
+    "Origen": null,
+    "Esperanza de vida": null,
+    "Link Imagen": "images/imagenes_perros/Perro Pastor de Argentina.jpg"
+  }
+]
