@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:perredex/pages/DetailsScreen.dart';
-import '../razas_provider.dart'; // Importa tu método para cargar razas
+import 'package:perredex/pages/CruzaScreen.dart'; // Asegúrate de crear este archivo
+import '../razas_provider.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -28,6 +29,19 @@ class _HomeScreenState extends State<HomeScreen> {
 
     return Scaffold(
       backgroundColor: Colors.white,
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          if (razas.isNotEmpty) {
+            Navigator.push(
+              context,
+              MaterialPageRoute(builder: (_) => CruzaScreen(razas: razas)),
+            );
+          }
+        },
+        backgroundColor: Colors.green,
+        tooltip: 'Cruzar perritos',
+        child: Icon(Icons.favorite),
+      ),
       body: Stack(
         children: [
           _fondo(),
@@ -57,8 +71,8 @@ class _HomeScreenState extends State<HomeScreen> {
                             child: SafeArea(
                               child: Container(
                                 decoration: BoxDecoration(
-                                  borderRadius:
-                                  BorderRadius.all(Radius.circular(25)),
+                                  borderRadius: BorderRadius.all(
+                                      Radius.circular(25)),
                                   color: Colors.greenAccent,
                                 ),
                                 child: Stack(
@@ -159,4 +173,5 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
+
 
