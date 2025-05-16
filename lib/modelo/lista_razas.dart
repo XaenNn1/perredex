@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'razas_provider.dart';
+import '../controlador/razas_provider.dart';
 
 class ListaRazas extends StatelessWidget {
   @override

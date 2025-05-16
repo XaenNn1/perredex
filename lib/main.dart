@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:perredex/pages/DetailsScreen.dart';
-import 'package:perredex/pages/HomeScreen.dart';
+import 'package:perredex/vista/DetailsScreen.dart';
+import 'package:perredex/vista/HomeScreen.dart';
 
 void main() {
   runApp(MyApp());

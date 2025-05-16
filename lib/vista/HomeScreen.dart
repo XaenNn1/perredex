@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:perredex/pages/DetailsScreen.dart';
-import 'package:perredex/pages/CruzaScreen.dart'; // Asegúrate de crear este archivo
-import '../razas_provider.dart';
+import 'package:perredex/vista/DetailsScreen.dart';
+import 'package:perredex/vista/CruzaScreen.dart'; // Asegúrate de crear este archivo
+import '../controlador/razas_provider.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

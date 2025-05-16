@@ -25,10 +25,7 @@ class _CruzaScreenState extends State<CruzaScreen> {
           SizedBox(height: 10),
           ElevatedButton.icon(
             onPressed: (padre != null && madre != null)
-                ? () {
-              final cachorro = _cruzarPerros(padre!, madre!);
-              _mostrarResultado(context, cachorro);
-            }
+                ? () => _mostrarResultado(context, padre!['Raza'], madre!['Raza'])
                 : null,
             icon: Icon(Icons.favorite),
             label: Text('Cruzar'),
@@ -58,7 +55,8 @@ class _CruzaScreenState extends State<CruzaScreen> {
             itemCount: widget.razas.length,
             itemBuilder: (context, index) {
               final raza = widget.razas[index];
-              final seleccionada = (esPadre && padre == raza) || (!esPadre && madre == raza);
+              final seleccionada =
+                  (esPadre && padre == raza) || (!esPadre && madre == raza);
 
               return GestureDetector(
                 onTap: () {
@@ -75,7 +73,8 @@ class _CruzaScreenState extends State<CruzaScreen> {
                   margin: EdgeInsets.symmetric(horizontal: 8, vertical: 12),
                   decoration: BoxDecoration(
                     border: Border.all(
-                      color: seleccionada ? Colors.green : Colors.grey.shade400,
+                      color:
+                      seleccionada ? Colors.green : Colors.grey.shade400,
                       width: 2,
                     ),
                     borderRadius: BorderRadius.circular(10),
@@ -113,27 +112,42 @@ class _CruzaScreenState extends State<CruzaScreen> {
     );
   }
 
-  Map<String, dynamic> _cruzarPerros(Map<String, dynamic> padre, Map<String, dynamic> madre) {
-    return {
-      'Raza': 'Cachorro de ${padre['Raza']} + ${madre['Raza']}',
-      'Link Imagen': padre['Link Imagen'] ?? madre['Link Imagen'],
-      'Color': '${padre['Color'] ?? '??'} + ${madre['Color'] ?? '??'}',
-      'Tamaño': '${padre['Tamaño'] ?? '??'} / ${madre['Tamaño'] ?? '??'}',
-    };
-  }
+  void _mostrarResultado(BuildContext context, String razaPadre, String razaMadre) async {
 
-  void _mostrarResultado(BuildContext context, Map<String, dynamic> cachorro) {
+    String r1 = razaPadre.toLowerCase().replaceAll(' ', '_');
+    String r2 = razaMadre.toLowerCase().replaceAll(' ', '_');
+
+
+    String img1 = 'images/imagenes_perros/${r1}-${r2}.jpeg';
+    String img2 = 'images/imagenes_perros/${r2}-${r1}.jpeg';
+
+
+    String? rutaElegida;
+
+    try {
+      await precacheImage(AssetImage(img1), context);
+      rutaElegida = img1;
+    } catch (_) {
+      try {
+        await precacheImage(AssetImage(img2), context);
+        rutaElegida = img2;
+      } catch (_) {
+        rutaElegida = null;
+      }
+    }
+
     showDialog(
       context: context,
       builder: (_) => AlertDialog(
-        title: Text(cachorro['Raza']),
+        title: Text('Cachorro de $razaPadre + $razaMadre'),
         content: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Image.asset(cachorro['Link Imagen'] ?? '', height: 100),
+            if (rutaElegida != null)
+              Image.asset(rutaElegida, height: 100)
+            else
+              Text('Imagen no disponible para esta combinación.'),
             SizedBox(height: 10),
-            Text("Color: ${cachorro['Color']}"),
-            Text("Tamaño: ${cachorro['Tamaño']}"),
           ],
         ),
         actions: [
